@@ -1,0 +1,8 @@
+a=int(input("enter first no"))
+b=int(input("enter second no"))
+print("add=",a+b)
+print('diff',a-b)
+print("prod=",a*b)
+print("div=",a/b)
+print("modul",a%b)
+print("pow=",a**b)
